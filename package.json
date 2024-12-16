@@ -11,6 +11,5 @@
   "license": "ISC",
   "dependencies": {
     "ethers": "^6.13.4",
-    "tp4ek": "file:"
   }
 }
